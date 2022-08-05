@@ -5,3 +5,4 @@
 "# Pandas library needed"
 "# I used a example dataset called sales_ts.csv to examplify the usage of the data into the SGBD, so as soon as the program starts, all the information from the columns selected will be added to the database"
 "# Install Memcached, then run it. After running the memcache server you'll be able to run the program and use its features"
+"# TimeSeriesDataScienceAnalysis" 
